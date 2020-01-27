@@ -1,3 +1,9 @@
+[![Build Status](https://circleci.com/gh/kchawla-pi/united-states-of-browsers.svg?branch=master)](https://circleci.com/gh/kchawla-pi/united-states-of-browsers)
+[![Build Status](https://dev.azure.com/kchawla-pi/united-states-of-browsers/_apis/build/status/kchawla-pi.united-states-of-browsers?branchName=master)](https://dev.azure.com/kchawla-pi/united-states-of-browsers/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://codecov.io/gh/kchawla-pi/united-states-of-browsers/branch/master/graph/badge.svg)](https://codecov.io/gh/kchawla-pi/united-states-of-browsers)
+
+
+
 # United States of Browsers
 ##### A project to combine and organize history and bookmarks across multiple browsers and browser profiles.
 
@@ -21,7 +27,9 @@ THIS IS A USE AT YOUR OWN RISK SOFTWARE.
  - For Mozilla Firefox, Chrome, Opera, Vivaldi
  - May work with other Windows versions.
 
-It is Windows ONLY for now. Easy to make it work for other OSes.
+It is Windows ~ONLY~ for now. I got it working with my personal installation of Linux Mint. Watch this space.
+
+Easy to make it work for other OSes.
 Changing path locations for browser profile folder should make it work on other OS. (TODO)
 
 Following functionality has been implemented as of Jan 30, 2018:
